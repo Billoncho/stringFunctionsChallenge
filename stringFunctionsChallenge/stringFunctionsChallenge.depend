@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1655525540 source:c:\users\cacha\documents\codex\c\stringfunctionschallenge\main.c
+	<stdio.h>
+	<stdlib.h>
+
